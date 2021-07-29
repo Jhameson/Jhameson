@@ -11,8 +11,23 @@
 <!--#OpenToWork  -- :computer::fire::exclamation:   :telephone_receiver:me-->
 
 ## Tecnologies 
-
-<img aling= "center" alt="java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style = "max-width: 100%;"> </img><img aling= "center" alt="CSharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style = "max-width: 100%;"></img><img aling= "center" alt="C" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style = "max-width: 100%;"></img> <img aling= "center" alt="javaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style = "max-width: 100%;"></img><img aling= "center" alt="React-Native" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style = "max-width: 100%;"></img> <img aling= "center" alt="HTML-5" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style = "max-width: 100%;"> </img><img aling= "center" alt="CSS3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style = "max-width: 100%;"></img><img aling= "center" alt="SASS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style = "max-width: 100%;"> </img><img aling= "center" alt="MYSQL" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style = "max-width: 100%;"></img>
+<ul>
+<li> 
+ <img aling= "center" alt="HTML-5" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" style = "max-width: 100%;"> </img>
+ <img aling= "center" alt="CSS3" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" style = "max-width: 100%;"></img>
+ <img aling= "center" alt="javaScript" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style = "max-width: 100%;"></img> 
+ <img aling= "center" alt="React-Native" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style = "max-width: 100%;"></img>
+ <img aling= "center" alt="SASS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" style = "max-width: 100%;"> </img>
+</li>
+<li>
+ <img aling= "center" alt="java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style = "max-width: 100%;"> </img>
+ <img aling= "center" alt="CSharp" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style = "max-width: 100%;"></img>
+ <img aling= "center" alt="C" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style = "max-width: 100%;"></img>  <img aling= "center" alt="MYSQL" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style = "max-width: 100%;"></img>
+ <img aling= "center" alt="POSTGRE" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style = "max-width: 90%;"></img>
+ 
+ 
+ 
+</ul>
 
 
 
