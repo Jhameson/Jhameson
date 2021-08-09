@@ -2,8 +2,8 @@
 <img align="center" src="https://thumbs.gfycat.com/DamagedImportantAmurratsnake-size_restricted.gif" style="width: 80%" />
 </div>  
 
-### Welcome!! :wave:
-# I'm Jhameson Lucas :alien::raised_hand: 
+<!-- ### Welcome!! :wave: -->
+## I'm Jhameson Lucas :alien::raised_hand: 
 - Acess: https://jhameson.github.io/JLPF/
 <!-- * Técnico em informática pela EEEP Antônio Tarcísio Aragão; 
 * Atualmente, estou cursando Ciência da Computação na UFC-Universidade Federal do  Ceará (Crateús, CE); 
