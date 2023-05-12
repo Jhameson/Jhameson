@@ -4,7 +4,10 @@
 
  ### Welcome!! :wave: 
 ## I'm Jhameson Lucas :alien::raised_hand: 
-- Access: https://jhameson.github.io/JLPF/
+<!-- - Access: https://jhameson.github.io/JLPF/ -->
+- Tech Lead in Fitbank Pagamentos Eletrônicos
+- Contributor in design system: https://npm.io/package/design-system-fitbank-450
+- Open Source Bank: https://osbpay.fitbank.com.br/
 <!-- * Técnico em informática pela EEEP Antônio Tarcísio Aragão; 
 * Atualmente, estou cursando Ciência da Computação na UFC-Universidade Federal do  Ceará (Crateús, CE); 
 * Estou em busca de concluir meu curso de graduação e aperfeiçoar meu desenvolvimento em Programação Web. -->
